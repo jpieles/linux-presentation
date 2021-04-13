@@ -27,6 +27,13 @@ He wanted to develop an Operating System, which is like UNIX but consists
 of only **free software** called GNU (GNU is not UNIX)
 [he later founded the *free software foundation** (FSF)
 
+**FREE SOFTWARE**
+Free Software can be defined by the four freedoms:
+* *Freedom 0* Freedom to run the program for any purpose
+* *Freedom 1* Freedom to study and change the program; access to the underlying source code
+* *Freedom 2* Freedom to share copies to help your neighbor
+* *Freedom 3* Freedom to distribute copies of modiefied versions to others
+
 He came really far with translating GNU software in his free software world.
 But the thing missing was the Operating System Kernel which would bind
 everthing together.
@@ -71,13 +78,26 @@ Because the choice of the right Linux Distrubtion is quite frustrating for begin
 The only noticable differences are the preinstalled software packages.
 The used Desktop Environment or Window Manager and the Package Manager
 
+## Usage
+
+
+
 ## Pros and Cons
 ### Pros
 free (like free in free beer as well as out of charge)
+no licensing issues or costs
+no viruses
+full suite of software applications
+low resource use on hardware side
+ported to a large number of hardware
+easy to use
+available in every language and every country
+flexibilaty: can be run on everthing from watches to supercomputers
 fast
 most things work out of the box (drivers)
 package manager
 security
+
 
 ### Cons
 if something does not work its hard to find out
