@@ -27,6 +27,8 @@ He wanted to develop an Operating System, which is like UNIX but consists
 of only **free software** called GNU (GNU is not UNIX)
 [he later founded the *free software foundation** (FSF)
 
+
+
 **FREE SOFTWARE**
 Free Software can be defined by the four freedoms:
 * *Freedom 0* Freedom to run the program for any purpose
@@ -44,6 +46,8 @@ He build a UNIX like Operating System from Scratch (just for fun) and to
 help other stundents with the same goal up and that they dont have to
 start with nothing like him
 
+
+
 ## Architecture
 
 Before I start with the technical side I have to explain what an Operating System even is.
@@ -51,7 +55,11 @@ An operating system is a system software that manages computer hardware, softwar
 and provides commons services for Application. So the operating system is a software between the computer
 hardware the the user Applications
 
-Kernel, Gnu Software
+Kernel
+The Kernel is the core of an operating system and provides the drivers in order to run the system.
+i.E. for disks, the filesystem, graphics card, network adapter, keyboard, mouse
+
+Gnu Software
 
 The commandline/shell
 The commandline i.E. bash zsh or fish plays the most prominent role in the GNU world.
@@ -101,4 +109,5 @@ security
 
 ### Cons
 if something does not work its hard to find out
+
 

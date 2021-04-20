@@ -1,0 +1,66 @@
+2. Linux - Wortdefinition						
+	2.1. Linux - Wortdefinition					
+	2.2. Linux - Ein Betriebssystem					
+	2.3. GNU/Linux Namensstreit					
+	2.4. Linux - Philosophie					
+	2.5. Tux							
+
+3. Linux - Entwicklung, Geschichte
+	3.1. Entwicklungen im Vorfeld
+	3.2. Entstehung von Linux
+	3.3. Weiterentwicklung--> Kapitel 5
+	3.4. Bedeutung der Lizenzen
+	3.5. Lizenzproblematik - Streit mit M$
+
+4. Linux - Technisches
+	4.0. Aufbau eines Linux-Betriebssystems
+	4.1. Linux - Kernel
+	4.2. Linux - Das X-Window-System - die graphische Oberfläche
+	4.3. Linux - Desktopumgebungen
+		4.3.1. GNOME
+		4.3.2. KDE
+		4.3.3. Weitere Desktopumgebungen
+	4.4. Linux - Bling
+		4.4.1. Technologie
+		4.4.2. Beryl / Compiz
+		4.4.3. Metisse
+	4.5. Linux - Bibliotheken
+	4.6. Linux - Software
+	4.7. Linux - Sicherheit
+	4.8. Linux - Server	
+	4.9. Linux - Paketformate
+	4.10. Linux - Spiele
+		4.10.1. Native Spiele
+		4.10.2. Wine / Cedega
+		4.10.3. Ausblick
+	4.11. Linux - Einsatzbereiche
+
+5. Linux - Entwicklung
+	5.1. Linux - Community
+	5.2. Linux Foundation
+	
+6. Linux - Eine Randgruppenphänomen?
+	6.1. Anteil von Linux-Usern weltweit
+	6.2. Prognosen und Zukunftsvisionen
+	6.3. Folgen einer verstärkten Verbreitung von Linux
+	6.4. Linux in den Medien
+
+7. Linux - 1001 Distributionen
+	7.1. Ark Linux
+	7.2. Debian
+	7.3. Fedora Core
+	7.4. Gentoo Linux
+	7.5. Mandriva
+	7.6. Slackware Linux
+	7.7. Suse Linux
+	7.8. Knoppix
+	7.9. SELinux
+
+8. Ubuntu - Hype oder mehr?
+	8.1. Ubuntu - Geschichte
+	8.2. Ubuntu - Die Distribution
+		8.2.1. Ubuntu
+		8.2.2. Kubuntu
+		8.2.3. Edubuntu
+		8.2.4. Xubuntu
+	8.3. Ubuntu - Nur eine von vielen?
