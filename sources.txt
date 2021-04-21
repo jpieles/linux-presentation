@@ -9,6 +9,8 @@ arch_linux:https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd3
 debian:https://abstract-technology.de/media/technology/debian/debian-logo-horizontal.gif/image_view_fullscreen
 ubuntu:https://iconape.com/ubuntu-2-logo-icon-svg-png.html
 manjaro:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png
+email:https://www.stockio.com/free-icon/rosalinda-email-mail-open-at
+linux-bg:https://www.reddit.com/r/wallpaper/comments/kcffkg/1920x1080_penguin_linux_wallpaper_dark_light_svg/
 
 TEXTSOURCES
 https://en.wikipedia.org/wiki/Linux
@@ -19,3 +21,4 @@ referate.mezdata.de/sj2001/linux-referat_milan_lin/ausarbeitung.html
 
 VIDEOSOURCES
 Why so many distros? The Weird History of Linux:youtube.com/watch?v=ShcR4Zfc6Dw
+How Linux is build:https://www.youtube.com/watch?v=yVpbFMhOAwE
