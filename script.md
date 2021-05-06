@@ -215,6 +215,7 @@ if something does not work its hard to find out
 	* sourcecode:https://images.iconfu.com/sets/9-line/icons/code_icon.png
 	* share:https://cdn1.iconfinder.com/data/icons/strongicon-user/24/share-10-512.png
 	* distribute_icon:https://cdn0.iconfinder.com/data/icons/business-strategy-3/500/business-strategy-tactic-trick_10-512.png
+	* kali:https://www.pngitem.com/download/hmmoowx_kali-linux-logo-png-png-download-kali-linux/
 
 * TEXTSOURCES
 	* https://en.wikipedia.org/wiki/Linux
