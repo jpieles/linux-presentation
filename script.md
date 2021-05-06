@@ -125,13 +125,46 @@ about 6 patches are applied to the kernel each hour.
 
 
 A Linux distribution is a set of tuned software around the linux kernel (which is tuned in most times too)
-What all Linux distributions have in Common is, that they all work on a or the linux kernel and use GNU Software
+What all Linux distributions have in Common is, that they all work on a or the linux kernel and use GNU Software.
+Nearly every distributions is built around a package management system. That means that all parts of the distribution
+can be installed, deinstalled und updated via the package manager.
+Distributions are made by companies or by groups of international volunteers.
 
 
 It doesnt really matter what Distro to use.
 Because the choice of the right Linux Distrubtion is quite frustrating for beginners.
 The only noticable differences are the preinstalled software packages.
 The used Desktop Environment or Window Manager and the Package Manager
+
+Distros:
+* Debian
+	* stable
+* Arch
+	* fast, lightweight
+* Redhat
+	* commercial
+* Fedora
+	* from Redhat, but not commercial
+* Suse
+	* idk
+* Slackware
+	* idk
+* Kali
+	* cyber security
+	* penetration testing
+* Mint
+	* ubuntu, but better
+* Ubuntu
+	* debian in easier
+	* most used distro
+	* beginners friendly
+* Manjaro
+	* arch in easier
+* Artix
+	* arch, without systemd
+* Parabola
+	* arch, without proriatary software
+	* completely free
 
 ***
 ## PROS AND CONS
