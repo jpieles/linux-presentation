@@ -38,14 +38,10 @@ He wanted to develop an Operating System, which is like UNIX but consists
 of only **free software** called GNU (GNU is not UNIX)
 [he later founded the *free software foundation** (FSF)
 
-
-
-**FREE SOFTWARE**
-Free Software can be defined by the four freedoms:
-* *Freedom 0* Freedom to run the program for any purpose
-* *Freedom 1* Freedom to study and change the program; access to the underlying source code
-* *Freedom 2* Freedom to share copies to help your neighbor
-* *Freedom 3* Freedom to distribute copies of modiefied versions to others
+1983 Richard Stallman founded the GNU-Project.
+He had the goal to create a UNIX-like operating system.
+There has been written a great amount of software, but the operating system kernel
+GNU Hurd was still in early development, and the development was also slow.
 
 He came really far with translating GNU software in his free software world.
 But the thing missing was the Operating System Kernel which would bind
@@ -57,8 +53,17 @@ He build a UNIX like Operating System from Scratch (just for fun) and to
 help other stundents with the same goal up and that they dont have to
 start with nothing like him
 
+***
+## Philosophy
 
+**FREE SOFTWARE**
+Free Software can be defined by the four freedoms:
+* *Freedom 0* Freedom to run the program for any purpose
+* *Freedom 1* Freedom to study and change the program; access to the underlying source code
+* *Freedom 2* Freedom to share copies to help your neighbor
+* *Freedom 3* Freedom to distribute copies of modiefied versions to others
 
+***
 ## Architecture
 
 Before I start with the technical side I have to explain what an Operating System even is.
@@ -69,6 +74,9 @@ hardware the the user Applications.
 Kernel
 The Kernel is the core of an operating system and provides the drivers in order to run the system.
 i.E. for disks, the filesystem, graphics card, network adapter, keyboard, mouse
+
+***
+## Software
 
 Gnu Software
 
@@ -84,6 +92,7 @@ of software from public repositories and also synchronice them (update)
 There are several kinds of them, the most common are APT and pacman
 X Server
 
+***
 ## Development
 
 Kernel Development
@@ -110,6 +119,7 @@ Here it gets an even more extensive evaluation when the maintainer finished the 
 sign off the patch and send it on to linux torvalds who has the ultimate authority on what is
 accepted into the next release and what is not, nearly 10.000 patches go into almost every new release
 about 6 patches are applied to the kernel each hour.
+***
 ## Distributions
 
 
@@ -122,10 +132,7 @@ Because the choice of the right Linux Distrubtion is quite frustrating for begin
 The only noticable differences are the preinstalled software packages.
 The used Desktop Environment or Window Manager and the Package Manager
 
-## Usage
-
-
-
+***
 ## Pros and Cons
 ### Pros
 free (like free in free beer as well as out of charge)
@@ -146,6 +153,15 @@ security
 ### Cons
 if something does not work its hard to find out
 
+
+
+
+***
+## SHOWCASE
+
+
+
+***
 
 ## sources
 * IMAGESOURCES
