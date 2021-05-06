@@ -1,0 +1,28 @@
+IMAGESOURCES
+tux-image: https://upload.wikimedia.org/wikipedia/commons/3/3a/Tux_Mono.svg
+gnu-image: https://upload.wikimedia.org/wikipedia/en/2/22/Heckert_GNU_white.svg
+distributions: https://upload.wikimedia.org/wikipedia/commons/8/83/Linux_Distribution_Timeline_27_02_21.svg
+pdp7:https://upload.wikimedia.org/wikipedia/commons/b/bb/Pdp-7-oslo-2004.jpeg
+pdp72:https://upload.wikimedia.org/wikipedia/commons/5/52/Pdp7-oslo-2005.jpeg
+peace_love_linux:https://www.reddit.com/r/IBM/comments/gbbol7/2001ish_i_snagged_this_flag_when_company_was/
+arch_linux:https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png
+debian:https://abstract-technology.de/media/technology/debian/debian-logo-horizontal.gif/image_view_fullscreen
+ubuntu:https://iconape.com/ubuntu-2-logo-icon-svg-png.html
+manjaro:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1024px-Manjaro-logo.svg.png
+email:https://www.stockio.com/free-icon/rosalinda-email-mail-open-at
+linux-bg:https://www.reddit.com/r/wallpaper/comments/kcffkg/1920x1080_penguin_linux_wallpaper_dark_light_svg/
+executable:https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Run-Executable-icon.png
+sourcecode:https://images.iconfu.com/sets/9-line/icons/code_icon.png
+share:https://cdn1.iconfinder.com/data/icons/strongicon-user/24/share-10-512.png
+distribute_icon:https://cdn0.iconfinder.com/data/icons/business-strategy-3/500/business-strategy-tactic-trick_10-512.png
+
+TEXTSOURCES
+https://en.wikipedia.org/wiki/Linux
+https://de.wikipedia.org/wiki/Linux
+de.wikipedia.org/wiki/Geschichte_von_Linux
+en.wikipedia.org/wiki/History_of_Linux
+referate.mezdata.de/sj2001/linux-referat_milan_lin/ausarbeitung.html
+
+VIDEOSOURCES
+Why so many distros? The Weird History of Linux:youtube.com/watch?v=ShcR4Zfc6Dw
+How Linux is build:https://www.youtube.com/watch?v=yVpbFMhOAwE
