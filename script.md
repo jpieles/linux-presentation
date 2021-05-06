@@ -1,16 +1,16 @@
 Colors to use in impress presentation
 
-background #282828
-foreground #CBDBB2
-green      #689D6A
-blue       #458588
-orange     #D79921
-red        #CC241D
+* background #282828
+* foreground #CBDBB2
+* green      #689D6A
+* blue       #458588
+* orange     #D79921
+* red        #CC241D
 
 
-# GNU/Linux
+# GNU LINUX
 
-## Introduction
+## INTRODUCTION
 Good Morning all...
 Today i gonna tell you a little about GNU/Linux or just Linux
 and why it's the best.
@@ -23,7 +23,8 @@ distributions. As a conclusion I will specify some pro's and cons
 and finally I want to show you a little bit of the operating system.
 **page break**
 
-## History
+***
+## HISTORY
 The history of Linux begins in the 1960's **page break**
 with these two guys, Ken Thompson and Dennis Ritchie **page break**
 When they developed the UNICKS Operating System **page break**
@@ -54,7 +55,7 @@ help other stundents with the same goal up and that they dont have to
 start with nothing like him
 
 ***
-## Philosophy
+## PHILOSOPHY
 
 **FREE SOFTWARE**
 Free Software can be defined by the four freedoms:
@@ -64,7 +65,7 @@ Free Software can be defined by the four freedoms:
 * *Freedom 3* Freedom to distribute copies of modiefied versions to others
 
 ***
-## Architecture
+## ARCHITECTURE
 
 Before I start with the technical side I have to explain what an Operating System even is.
 An operating system is a system software that manages computer hardware, software resources
@@ -76,7 +77,7 @@ The Kernel is the core of an operating system and provides the drivers in order 
 i.E. for disks, the filesystem, graphics card, network adapter, keyboard, mouse
 
 ***
-## Software
+## SOFTWARE
 
 Gnu Software
 
@@ -93,7 +94,7 @@ There are several kinds of them, the most common are APT and pacman
 X Server
 
 ***
-## Development
+## DEVELOPMENT
 
 Kernel Development
 unlike other operating systems, Linux is built collaboratively across
@@ -120,7 +121,7 @@ sign off the patch and send it on to linux torvalds who has the ultimate authori
 accepted into the next release and what is not, nearly 10.000 patches go into almost every new release
 about 6 patches are applied to the kernel each hour.
 ***
-## Distributions
+## DISTRIBUTIONS
 
 
 A Linux distribution is a set of tuned software around the linux kernel (which is tuned in most times too)
@@ -133,8 +134,8 @@ The only noticable differences are the preinstalled software packages.
 The used Desktop Environment or Window Manager and the Package Manager
 
 ***
-## Pros and Cons
-### Pros
+## PROS AND CONS
+### PROS
 free (like free in free beer as well as out of charge)
 no licensing issues or costs
 no viruses
@@ -150,7 +151,7 @@ package manager
 security
 
 
-### Cons
+### CONS
 if something does not work its hard to find out
 
 
