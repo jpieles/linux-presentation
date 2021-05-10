@@ -229,6 +229,9 @@ if something does not work its hard to find out
 	* https://en.wikipedia.org/wiki/History_of_Linux
 	* https://referate.mezdata.de/sj2001/linux-referat_milan_lin/ausarbeitung.html
 
+* BOOKS
+	* IT-Handbuch für Fachinformatiker ISBN 978-3-8362-7023-6
+
 * VIDEOSOURCES
 	* Why so many distros? The Weird History of Linux:https://youtube.com/watch?v=ShcR4Zfc6Dw
 	* How Linux is build:https://www.youtube.com/watch?v=yVpbFMhOAwE
