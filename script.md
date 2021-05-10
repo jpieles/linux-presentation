@@ -216,6 +216,10 @@ if something does not work its hard to find out
 	* share:https://cdn1.iconfinder.com/data/icons/strongicon-user/24/share-10-512.png
 	* distribute_icon:https://cdn0.iconfinder.com/data/icons/business-strategy-3/500/business-strategy-tactic-trick_10-512.png
 	* kali:https://www.pngitem.com/download/hmmoowx_kali-linux-logo-png-png-download-kali-linux/
+	* suse:https://www.openchainproject.org/wp-content/uploads/sites/15/2018/10/224623LOGO.jpg
+	* redhat:http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg
+	* fedora:https://www.cleanpng.com/png-fedora-project-linux-distribution-installation-1850505/download-png.html
+	* slackware:
 
 * TEXTSOURCES
 	* https://en.wikipedia.org/wiki/Linux
