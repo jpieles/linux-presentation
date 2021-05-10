@@ -219,7 +219,8 @@ if something does not work its hard to find out
 	* suse:https://www.openchainproject.org/wp-content/uploads/sites/15/2018/10/224623LOGO.jpg
 	* redhat:http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg
 	* fedora:https://www.cleanpng.com/png-fedora-project-linux-distribution-installation-1850505/download-png.html
-	* slackware:
+	* slackware:https://upload.wikimedia.org/wikipedia/commons/2/22/Slackware_logo_from_the_official_Slackware_site.svg
+	* linus_torvalds_young:https://pclosmag.com/html/Issues/201608/images/page01/linus-torvalds-young-cropped.jpg
 
 * TEXTSOURCES
 	* https://en.wikipedia.org/wiki/Linux
