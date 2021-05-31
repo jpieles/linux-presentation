@@ -1,0 +1,37 @@
+#fast
+free
+#modular
+#secure
+#privacy
+#reliability
+terminal
+package management
+workflow
+#installation
+no rebooting
+updates
+powerful tools (wget, grep, cron)
+automation
+#performance (fast, lightweight) works on old machines
+useful error messages
+#customization
+community
+
+security
+privacy
+reliabitlity
+
+modularity
+performance
+customization
+
+free
+easy to use
+community
+
+terminal
+package management
+
+powerful tools
+automation
+useful error messages
